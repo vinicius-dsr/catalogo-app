@@ -9,7 +9,7 @@ export default function SearchInput() {
         placeholder="Buscar produtos..."
         className="border-none bg-zinc-200"
       />
-      <Button size={"icon"}>
+      <Button size="icon">
         <SearchIcon size={20} />
       </Button>
     </div>
