@@ -5,7 +5,7 @@ import { MenuIcon } from "lucide-react";
 
 export default function Header() {
   return (
-    <header className="py-8">
+    <header className="py-4">
       <div className="container flex items-center justify-between">
         <Link href="">
           <Image src="/icon.png" alt="" height={30} width={30} />
